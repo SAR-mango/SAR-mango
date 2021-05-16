@@ -1,4 +1,4 @@
-## Hi!
+## Hi :)
 
 I am a high school junior at Francis Parker School in San Diego, CA. My dad is an electrical engineer, so I've been curious about electronics for pretty much my entire life. My dad taught me to solder when I was 3, and I started playing with actual circuits around the age of 6.
 
@@ -7,4 +7,7 @@ I started with the basic analog building blocks like transistors and op-amps, an
 With college apps coming up soon, I definitely have a long way to go. But I've come pretty far since 2010. Here is an overview of what I've been working on recently:
 
 ### SinESC
-I got into FPV drones a few years ago to finally satisfy my general affinity for anything that flies. I built some lasers just like Styropyro, who inspired me when I was really little. My main project is currently SinESC, which you can find just below. My main g
+(details TBA)
+
+### Universal Laser Driver
+(details TBA)
