@@ -1,5 +1,5 @@
 ## Hi :)
-I am a high school junior at Francis Parker School in San Diego, CA. My dad is an electrical engineer, so I've been exposed to electronics pretty much my entire life. My dad taught me to solder when I was 3, and I started playing with actual circuits around the age of 6.
+I am a high school junior in San Diego, CA. My dad is an electrical engineer, so I've been exposed to electronics pretty much my entire life. I've been playing with circuits for as long as I can remember.
 
 ## Projects I'm Working On
 
