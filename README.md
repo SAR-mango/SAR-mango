@@ -1,5 +1,5 @@
-## Hi :)
-I am a high school junior in San Diego, CA. My dad is an electrical engineer, so I've been exposed to electronics pretty much my entire life. I've been playing with circuits for as long as I can remember.
+## About Me
+I am a high school senior in San Diego, CA. I've been playing with circuits for as long as I can remember.
 
 ## Projects I'm Working On
 
