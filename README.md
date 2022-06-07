@@ -1,5 +1,5 @@
 ## About Me
-I am an incoming electrical engineering student at UCSB. I am into embedded hardware, power electronics, lasers, and flying RC drones and planes.
+I am an incoming electrical engineering student at UCSB. I enjoy projects that involve embedded hardware, power electronics, lasers, and flying RC drones and planes.
 
 ## Projects I'm Working On
 
