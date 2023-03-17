@@ -1,10 +1,13 @@
 ## About Me
-I am an electrical engineering student at UCSB. I enjoy projects that involve embedded hardware, power electronics, lasers, and flying RC drones and planes.
+Hi! I am an Electrical Engineering student at UCSB. I enjoy projects involving embedded hardware, power electronics, lasers, and RC drones and planes.
 
-## Projects I'm Working On
+## Projects
 
 ### SinESC
-A modern ESC for FPV drones that is significantly more efficient than standard BLHeli_32 ESCs. More details are in the repository below.
+A modern ESC for FPV drones that uses field-oriented control for significantly improved efficiency over standard ESCs. Full details are in the repository.
 
 ### Universal Laser Driver
-Solves the problem of having to match batteries, laser drivers, and diodes based on input and output voltage and current requirements. Intended for low-power laser pointers where space is minimal. Especially well suited for builds utilizing the Leadlight Pen Host, because the PCB is designed to fit in the plastic carrier that normally holds the switch board. The Leadlight Pen Host requires two 10440-sized battery cells, and the Universal Laser Driver allows the user to swap between AAA alkaline and 10440 Li-ion cells without worrying about damaging the driver or not having sufficient voltage to power the diode.
+Solves the problem of having to match batteries, laser drivers, and diodes based on input and output voltage and current requirements.
+
+### eApprox
+Algorithm I came up with to approximate e and e^x. I wrote this in python while taking a break from studying for finals, but rewrote it in C as a learning exercise and to make it run faster.
