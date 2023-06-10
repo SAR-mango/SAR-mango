@@ -1,5 +1,5 @@
 ## About Me
-Hi! I am an Electrical Engineering student at UCSB. I enjoy projects involving embedded hardware, power electronics, lasers, and RC drones and planes.
+Hi! I'm an Electrical Engineering student at UCSB, and I enjoy projects involving power electronics, embedded hardware/software, lasers, and RC drones and planes. Below are descriptions of some of my projects, but feel free to check out my repositories for more details. If you find anything interesting or have any questions/comments, contact me! esampat@ucsb.edu
 
 ## Projects
 
@@ -10,4 +10,7 @@ A modern ESC for FPV drones that uses field-oriented control for significantly i
 Solves the problem of having to match batteries, laser drivers, and diodes based on input and output voltage and current requirements.
 
 ### eApprox
-Algorithm I came up with to approximate e and e^x. I wrote this in python while taking a break from studying for finals, but rewrote it in C as a learning exercise and to make it run faster.
+Algorithm I came up with to approximate e and e<sup>x</sup>. Generates points around (0, 1), chooses the point whose slope between itself and (0, 1) most closely matches its y value, then repeats the process around that point, and so on. Results graphed using Matplotlib.
+
+### Soldering Guide
+An in-depth guide to soldering through-hole components by hand. Aims to explain all relevant theory in great detail, as I personally believe that knowing this theory can greatly improve one's soldering technique.
