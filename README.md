@@ -1,5 +1,5 @@
 ## About Me
-Hi! I'm an electrical ngineering student at UCSB, and I enjoy projects involving power electronics, embedded systems, lasers, and RC aircraft. Below are descriptions of some of my projects, but feel free to check out my repositories for more details. If you find anything interesting or have any questions/comments, contact me! esampat@ucsb.edu
+Hi! I'm an electrical engineering student at UCSB, and I enjoy projects involving power electronics, embedded systems, lasers, and RC aircraft. Below are descriptions of some of my projects, but feel free to check out my repositories for more details. If you find anything interesting or have any questions/comments, contact me! esampat@ucsb.edu
 
 ## Projects
 
