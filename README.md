@@ -1,5 +1,5 @@
 ## About Me
-Hi! I'm an electrical engineer at SpaceX. In June 2026, I earned my electrical engineering degree from UC Santa Barbara.
+Hi! I'm an electrical engineer at SpaceX, working on avionics for satellites! In June 2026, I earned my electrical engineering degree from UC Santa Barbara.
 
 I enjoy projects involving power electronics, embedded systems, lasers, and RC aircraft. Below are short descriptions of some of my projects, but feel free to check out all of my repositories for more details. If you find anything interesting or have questions/comments, contact me! esampat@gmail.com
 
